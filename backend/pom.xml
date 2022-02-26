@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.4</version>
+		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.evandrodomingues</groupId>
-	<artifactId>apivendas</artifactId>
+	<groupId>com.devsuperior</groupId>
+	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>apivendas</name>
-	<description>Projeto de API de Vendas LindiSalgados e Marmitaria</description>
+	<name>dsvendas</name>
+	<description>Projeto desenvolvido na Semana Spring React da DevSuperior</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
